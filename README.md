@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @thnndnly
-- 👀 I’m interested in sex, drugs and coding
 - 🌱 I’m currently learning C#
 - 📫 How to reach me derdimi2000@gmail.com
 

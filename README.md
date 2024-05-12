@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thnndnly
+- 👋 Hi, I’m @thnndnly ( Dimitrios Tsakos )
 - 🌱 I’m currently learning C#
 - 📫 How to reach me derdimi2000@gmail.com
 
